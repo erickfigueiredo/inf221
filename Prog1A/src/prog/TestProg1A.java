@@ -1,6 +1,8 @@
 package prog;
-import org.junit.*;
+
 import static org.junit.Assert.*;
+import org.junit.*;
+
 import java.util.ArrayList;
 
 public class TestProg1A {
